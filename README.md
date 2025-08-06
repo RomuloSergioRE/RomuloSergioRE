@@ -49,8 +49,9 @@ Me chamo Rômulo Sérgio Rodrigues Evangelista, sou formado em **Análise e Dese
 
 <p align="left">
   <a href="romulosergiore@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=romulosergiore@gmail.com" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=romulosergiore@gmail.com" alt="Gmail" target="blank"/></a>
+
   <a href="https://www.linkedin.com/in/romulosergiore/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulosergiore/" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulosergiore/"  alt="LinkedIn" target="blank"/></a>
   </a>
 </p>  

@@ -25,7 +25,7 @@ Me chamo Rômulo Sérgio Rodrigues Evangelista, sou formado em **Análise e Dese
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![NodeJs](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
@@ -47,5 +47,10 @@ Me chamo Rômulo Sérgio Rodrigues Evangelista, sou formado em **Análise e Dese
 
 ### Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-RômuloSérgio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/romulosergiore)](www.linkedin.com/in/romulosergiore)
-[![Gmail Badge](https://img.shields.io/badge/-romulosergiore@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=romulosergiore@gmail.com)](romulosergiore@gmail.com)                
+<a href="www.linkedin.com/in/romulosergiore" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+<a href="romulosergiore@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+           

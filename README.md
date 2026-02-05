@@ -1,57 +1,40 @@
-# Rômulo Sérgio
-**`Tester de Software`**
+# Olá, eu sou o Rômulo Sérgio 👋
 
-### 👋 Olá!
+### Full Stack Developer | Especialista em Qualidade de Software
 
-Me chamo Rômulo Sérgio Rodrigues Evangelista, sou formado em **Análise e Desenvolvimento de Sistemas na UNIFOR**, com **pós-graduação em Desenvolvimento e Teste de Software na GRAN faculdades**. Meu objetivo é construir uma carreira em QA, contribuindo com qualidade e confiabilidade para os produtos de software.
-
-#### Conhecimentos Teóricos: 
-- Testes Manuais
-- Testes Automatizados
-- Criação de casos de teste
-
-#### Conceitos: 
-- Testes Funcionais 
-- Testes de Regressão 
-- Testes de Integração
-- TDD e BDD
-
-
-### Minhas Skills
-
-**Aplicações e dados**
-
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![NodeJs](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-**Utilidades**
-
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Vs%20Code-333333?logo=vscode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+Sou desenvolvedor Full Stack focado em construir aplicações modernas, escaláveis e, acima de tudo, seguras. Minha base acadêmica em **Análise e Desenvolvimento de Sistemas (UNIFOR)** e minha pós-graduação em **Desenvolvimento e Teste de Software (Gran)** me permitem criar códigos com uma mentalidade voltada para a excelência e zero bugs.
 
 ---
 
-### Onde me encontrar
+### 💻 No que estou focado agora:
+- **Frontend:** Construindo interfaces performáticas e SEO-friendly com **Next.js** e **React**.
+- **Backend:** Desenvolvendo APIs robustas com **Node.js**, **TypeScript**, **Express** e **Prisma ORM**.
+- **Design:** Traduzindo ideias em protótipos funcionais e modernos utilizando o **Figma**.
+- **Qualidade:** Unindo meu background de QA para aplicar **TDD** e testes automatizados em todo o ciclo de desenvolvimento.
 
-<p align="left">
-  <a href="mailto:romulosergiore@gmail.com" title="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:romulosergiore@gmail.com" alt="Gmail" /></a>
+---
 
-  <a href="https://www.linkedin.com/in/romulosergiore/" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulosergiore/"  alt="LinkedIn"/></a>
-  </a>
-</p>  
+### 🛠️ Minhas Tech Skills
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | Next.js, React.js, TypeScript, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Node.js, Express, Prisma ORM, PostgreSQL, MySQL |
+| **Testing** | Jest, Cypress, Playwright, TDD, BDD, Testes de Integração |
+| **Design & Tools** | Figma, Git, GitHub, Docker, Postman |
+
+---
+
+### 🎓 Formação Acadêmica
+* **Pós-graduação em Desenvolvimento e Teste de Software** – Gran Faculdades
+* **Graduação em Análise e Desenvolvimento de Sistemas** – UNIFOR
+
+---
+
+### 📫 Onde me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINK_AQUI](https://www.linkedin.com/in/romulosergiore/))
+
+---
+
+> "Minha missão é transformar linhas de código em soluções de alta confiança, onde a funcionalidade e a qualidade andam juntas."

@@ -20,7 +20,7 @@ Sou desenvolvedor Full Stack focado em construir aplicações modernas, escaláv
 | :--- | :--- |
 | **Frontend** | Next.js, React.js, TypeScript, Tailwind CSS, HTML5, CSS3 |
 | **Backend** | Node.js, Express, Prisma ORM, PostgreSQL, MySQL |
-| **Testing** | Jest, Cypress, Playwright, TDD, BDD, Testes de Integração |
+| **Testing** | Jest, Cypress, TDD, BDD, Testes de Integração |
 | **Design & Tools** | Figma, Git, GitHub, Docker, Postman |
 
 ---

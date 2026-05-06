@@ -33,7 +33,7 @@ Sou desenvolvedor Full Stack focado em construir aplicações modernas, escaláv
 
 ### 📫 Onde me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/romulosergiore/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romulosergiore/)
 
 ---
 

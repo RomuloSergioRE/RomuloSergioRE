@@ -1,6 +1,6 @@
 # Olá, eu sou o Rômulo Sérgio 👋
 
-### Full Stack Developer | Especialista em Qualidade de Software
+### Full Stack Developer 
 
 Sou desenvolvedor Full Stack focado em construir aplicações modernas, escaláveis e, acima de tudo, seguras. Minha base acadêmica em **Análise e Desenvolvimento de Sistemas (UNIFOR)** e minha pós-graduação em **Desenvolvimento e Teste de Software (Gran)** me permitem criar códigos com uma mentalidade voltada para a excelência e zero bugs.
 
